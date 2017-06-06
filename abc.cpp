@@ -32,7 +32,6 @@
 #199.27.74.184 github.global.ssl.fastly.net
 #103.245.222.184 github.global.ssl.fastly.net
 
-but how to use it.
 
 #
 
