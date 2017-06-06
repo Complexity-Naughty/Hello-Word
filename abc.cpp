@@ -32,6 +32,7 @@
 #199.27.74.184 github.global.ssl.fastly.net
 #103.245.222.184 github.global.ssl.fastly.net
 
+I can only edit the project outside github?
 
 #
 
