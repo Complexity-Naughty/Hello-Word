@@ -24,6 +24,7 @@
 #127.0.0.1 licensing.ultraedit.com
 #127.0.0.1 licensing2.ultraedit.com
 
+# All disabled!
 #199.27.74.185 github.global.ssl.fastly.net
 #185.31.16.185 github.global.ssl.fastly.net
 #185.31.17.184 github.global.ssl.fastly.net
