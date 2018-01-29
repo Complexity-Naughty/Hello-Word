@@ -1,5 +1,5 @@
 This is a Txt file.
-
-OK
-
+but
 I like it
+
+Then  i am testing it.
